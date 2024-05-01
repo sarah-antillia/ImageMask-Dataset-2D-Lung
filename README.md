@@ -14,11 +14,11 @@ We have generated augmented test, train, and valid datasets of 512x512 pixel-siz
 <tr>
 <td>
 <b>2D-Lung image sample </b><br>
-<img src="./samples/images/ID_0000_Z_0142.tif" width="512" height="auto">
+<img src="./samples/images/ID_0000_Z_0142.png" width="512" height="auto">
 </td>
 <td>
 <b>2D-Lung mask sample </b><br>
-<img  src="./samples/masks/ID_0000_Z_0142.tif" width="512" height="auto">
+<img  src="./samples/masks/ID_0000_Z_0142.png" width="512" height="auto">
 
 </td>
 </tr>
