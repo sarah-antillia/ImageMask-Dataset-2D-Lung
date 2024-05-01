@@ -32,7 +32,7 @@ You can download our augmented <b>2D-Lung-ImageMask-Dataset</b> from the google 
 <br>
 
 <h3>1. Dataset Citation</h3>
-<b>Abound Dataset</b><br>
+<b>About Dataset</b><br>
 <b>Context</b><br>
 <pre>
 Competitions like LUNA (http://luna16.grand-challenge.org) and the Kaggle Data Science Bowl 2017 
